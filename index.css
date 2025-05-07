@@ -292,4 +292,56 @@ button {
         text-align: center;
     }
         
-    
+    .content{
+        height: 300px;
+        width:600px ;
+        background-color: gray;
+        position: relative;
+        top:-1250px;
+        left: 50px;
+    }
+    .content h1{
+        position:relative; 
+          font-size: 20px;
+        color: #000;
+    }
+    .content1{
+        height: 400px;
+        width: 900px;
+        background-color: black;
+        position: relative;
+        top:-1000px;
+        left: 300px;
+        border-radius: 30px;
+    }
+    .content1 img{
+        height: 200px;
+        width: 200px;
+        border-radius: 50%;
+        position: relative;
+        left: 350px;
+        top: 50px;
+    }
+    .content1 h1{
+        position:relative; 
+        top: 70px;
+        left: 350px;
+        font-size: 20px;
+        color: #fff;
+    }
+    .content1 p{
+        position:relative; 
+        top: 100px;
+        
+        font-size: 18px;
+        color: #fff;
+    }
+    .arrow{
+        position:relative; 
+        top: 100px;
+        left: 500px;
+        height: 50px;
+        width: 50px;
+        background-color: red;
+        /* background-image: url("https://www.free-css.com/assets/files/free-css-templates/preview/page296/healet/assets/images/arrow.png"); */
+    }
